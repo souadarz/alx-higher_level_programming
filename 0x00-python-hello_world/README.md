@@ -1,7 +1,9 @@
 0x00. Python - Hello, World
 
 Requirements
+
 Python Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
@@ -18,7 +20,9 @@ All your scripts should be exactly two lines long (wc -l file should print 2)
 All your files should end with a new line
 The first line of all your files should be exactly #!/bin/bash
 All your files must be executable
+
 C Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
@@ -29,8 +33,11 @@ In the following examples, the main.c files are shown as examples. You can use t
 The prototypes of all your functions should be included in your header file called lists.h
 Don’t forget to push your header file
 All your header files should be include guarded
+
 More Info
+
 Zen
+
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
