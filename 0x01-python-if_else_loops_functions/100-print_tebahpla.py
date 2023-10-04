@@ -6,4 +6,3 @@ for c in range(122, 96, -1):
     else:
         i = 0
     print("{}".format(chr(c - i)), end="")
-    
